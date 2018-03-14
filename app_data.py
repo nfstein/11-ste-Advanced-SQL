@@ -7,6 +7,7 @@ from sqlalchemy.orm import Session
 
 # Import and establish Base for which classes will be constructed 
 from sqlalchemy.ext.automap import automap_base
+
 Base = automap_base()
 
 engine = sqlalchemy.create_engine("sqlite:///sql/hawaii.sqlite", echo = False)

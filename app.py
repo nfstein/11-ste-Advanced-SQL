@@ -7,7 +7,16 @@ app = Flask(__name__)
 @app.route("/")
 def main():
     __name__ = "__main__"
-    return "Hello Flask!"
+    endpoints = [
+        "/test_data",
+        "/api/v1.0/precipitation",
+        "/api/v1.0/stations",
+        "/api/v1.0/tobs",
+        "/api/v1.0/<start>",
+        "/api/v1.0/<start>/<end>",
+
+    ]
+    return jsonify(endpoints)
 
 @app.route("/test_data")
 def test():

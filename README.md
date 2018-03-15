@@ -1,5 +1,5 @@
 # Hawaii or Bust
-Im planning a trip to Hawaii so I naturally want to know what the weather will be like, because, if the weather's bad, then whats the point.   
+I'm planning a trip to Hawaii so I naturally want to know what the weather will be like, because, if the weather's bad, then what's the point?   
 I want to go sometime in mid 2017.
 So lets look at the weather the year before my trip!
 
